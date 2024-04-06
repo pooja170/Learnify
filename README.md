@@ -1,2 +1,2 @@
 # Learnify
-Learnify- A lms 
+Learnify- A lms (Learning management system)
